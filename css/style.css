@@ -503,7 +503,7 @@ fieldset {
   display: flex;
   flex-wrap: wrap;
   margin: 0;
-  margin-right: -100px;
+  margin-right: -40px;
   padding: 0;
   list-style: none;
 }
@@ -551,7 +551,6 @@ fieldset {
   margin-bottom: 15px;
   font-size: 45px;
   ine-height: 0%;
-  
 }
 
 .pagination {
